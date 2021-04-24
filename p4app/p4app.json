@@ -1,0 +1,11 @@
+{
+    "program": "pattern_match_switch.p4",
+    "language": "p4-16",
+    "targets": {
+      "mininet": {
+        "num-hosts": 2,
+        "switch-config": "switch.config"
+      }
+    }
+  }
+  
